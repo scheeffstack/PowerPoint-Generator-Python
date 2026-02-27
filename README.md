@@ -1,12 +1,5 @@
 ![banner](https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/bfe8f796-3ffa-4c59-92f5-7624f6f9884f)
 
-[![made-with-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/otahina)
-
-<img src="https://img.shields.io/github/stars/otahina/PowerPoint-Generator-Python-Project.svg"> <img src="https://img.shields.io/github/forks/otahina/PowerPoint-Generator-Python-Project.svg">
-
 ## PowerPoint Generator: Your Gateway to Effortless Presentations 🚀
 
 Dive into the ease of presentation creation with PowerPoint Generator, a smart web application crafted to automate 
@@ -44,20 +37,7 @@ Those who want to contribute to (which is welcome!), please check [How to Contri
 
 <details>
 <summary>
-Step 1: Star The Repo ⭐️
-</summary>
-
-Star the repo to start using this project 👍
-
-![star repo](https://docs.github.com/assets/images/help/stars/starring-a-repository.png)
-
-</details>
-
----
-
-<details>
-<summary>
-Step 2: Clone It 🐑
+Step 1: Clone It 🐑
 </summary>
 
 - **Using Git** 
@@ -65,7 +45,7 @@ Step 2: Clone It 🐑
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/otahina/PowerPoint-Generator-Python-Project.git
+git clone https://github.com/scheeffstack/PowerPoint-Generator-Python.git
 ```
 
 - **Using Download ZIP**
@@ -79,7 +59,7 @@ git clone https://github.com/otahina/PowerPoint-Generator-Python-Project.git
 ---
 <details>
 <summary>
-Step 3: Create a Virtual Environment 📟
+Step 2: Create a Virtual Environment 📟
 </summary>
 
 On Windows 🪟
@@ -104,7 +84,7 @@ On macOS and Linux 🐧
 
 <details>
 <summary>
-Step 4: Setup API Keys 🔑
+Step 3: Setup API Keys 🔑
 </summary>
 
 ⚠️ This step is very important to make the project work! 
@@ -118,7 +98,7 @@ Instruction ▶️ [Setup the Secret Key and OpenAI Key](set-up-api-keys)
 <details>
 
 <summary>
-Step 5: Run 🏃‍
+Step 4: Run 🏃‍
 </summary>
 
 Navigate to `myapp` directory. Run `flaskapp.py`
@@ -135,23 +115,10 @@ Thank you for considering how you can contribute to the project! ✨
 
 <details>
 <summary>
-Step 1: Star The Repo ⭐️
+Step 1: Fork it 🍴
 </summary>
 
-Star the repo to start your contribution ⭐️
-
-![star repo](https://docs.github.com/assets/images/help/stars/starring-a-repository.png)
-
-</details>
-
----
-
-<details>
-<summary>
-Step 2: Fork it 🍴
-</summary>
-
-On the [GitHub page for this repository](https://github.com/otahina/PowerPoint-Generator-Python-Project.git), click on the Button "**Fork**".
+On the [GitHub page for this repository](https://github.com/scheeffstack/PowerPoint-Generator-Python.git), click on the Button "**Fork**".
 
 ![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
 
@@ -161,7 +128,7 @@ On the [GitHub page for this repository](https://github.com/otahina/PowerPoint-G
 
 <details>
 <summary>
-Step 3: Clone it 🐑
+Step 2: Clone it 🐑
 </summary>
 
 - **Method 1:** GitHub Desktop
@@ -175,7 +142,7 @@ Step 3: Clone it 🐑
 Clone the **forked repository**. Open terminal (command prompt) and type:
 
 ```bash
-git clone https://github.com/<your-github-username>/PowerPoint-Generator-Python-Project.git
+git clone https://github.com/<your-github-username>/PowerPoint-Generator-Python.git
 ```
 
 > This makes a local copy of the repository in your machine.
@@ -188,7 +155,7 @@ git clone https://github.com/<your-github-username>/PowerPoint-Generator-Python-
 
 <details>
 <summary>
-Step 4: Create your feature branch 🌴
+Step 3: Create your feature branch 🌴
 </summary>
 
 Always keep your local copy of the repository updated with the original repository.
@@ -207,7 +174,7 @@ Run the following commands **_carefully_** to update your local repository.
 ```bash
 # If you cloned a while ago, get the latest changes from upstream
 git checkout main
-git remote add upstream https://github.com/otahina/PowerPoint-Generator-Python-Project.git
+git remote add upstream https://github.com/scheeffstack/PowerPoint-Generator-Python.git
 git pull upstream main
 
 # Make a feature branch (Always check your current branch is up to date before creating a new branch from it to avoid merge conflicts)
@@ -220,7 +187,7 @@ git checkout -b <branch-name>
 ---
 <details>
 <summary>
-Step 5: Pull Request 🖐️
+Step 4: Pull Request 🖐️
 </summary>
 
 1. Open the GitHub website and find your forked repository.
@@ -235,8 +202,6 @@ I'll check your pull request. 😀
 </details>
 
 ---
-
-If you want to learn more about how to contribute, visit [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 ## Setup the Secret Key and OpenAI Key 
 
@@ -261,22 +226,4 @@ Here's a brief description of each key and how to obtain them:
 
 **PEXELS_API_KEY**: 🏞️ This key is used for the free image search API provided by Pexels. It's very useful for adding creative images to your presentations. You can get this key by creating a free account on the https://www.pexels.com/api
 After registering, the API key is automatically generated for you.
-
-## Community Discussions 🗣️
-Have a question, idea, or want to contribute? Join us in [Discussions](https://github.com/otahina/PowerPoint-Generator-Python-Project/discussions)!
-
-## Contributors ✨
-
-<img src="https://github.com/otahina.png" width="50" height="50" alt="description">
-<a href="https://github.com/otahina">Ota Hina</a>
-<img src="https://github.com/gaganmanku96.png" width="50" height="50" alt="description">
-<a href="https://github.com/gaganmanku96">Gagandeep Singh</a>
-
-
-## License 📄
-
-This project is licensed under the terms of the MIT license.
-
-
-
 
